@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "author": "Valen#8084",
+    "version": "0.0.1",
+    "name": "Comfy spoof",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "input_background": -15723744
+  },
+  "colors": {
+    "status_yellow_500": -3775902,
+    "status_yellow_500_alpha_10": 439032570,
+    "brand_500_alpha_20": 862881235,
+    "primary_dark_300": -4801856,
+    "primary_dark_330": -9605257,
+    "primary_dark_360": -11644840,
+    "uikit_settings_item_text_color_light": -9206579,
+    "primary_700": -15065555,
+    "primary_dark_600": -14407621,
+    "primary_dark_700": -15658209,
+    "primary_dark_800": -15658209,
+    "primary_dark_660": -15065299,
+    "primary_300": -15658209,
+    "primary_700_alpha_60": -1726078668,
+    "primary_630": -14802381,
+    "primary_dark_630": -14736846,
+    "black_alpha_80": -870440652,
+    "dim_foreground_disabled_material_light": -2144390856,
+    "brand_new_560": -14736846,
+    "primary_dark_400": -6972509
+  },
+  "drawable_tints": {
+    "ic_channel_text": -8289139,
+    "drawable_overlay_channels_selected_dark": -14802381,
+    "ic_status_online_16dp": -14507415,
+    "ic_status_idle_16dp": -350694,
+    "ic_status_dnd_16dp": -1030329,
+    "ic_status_invisible_16dp": -13487289,
+    "drawable_bg_reaction_dark": -14736846
+  }
+}
